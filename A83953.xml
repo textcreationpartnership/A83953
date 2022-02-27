@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands crisis, or, The World well mended</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83953</idno>
+            <idno type="STC">Wing E2954B</idno>
+            <idno type="STC">ESTC R42979</idno>
+            <idno type="EEBO-CITATION">38876063</idno>
+            <idno type="OCLC">ocm 38876063</idno>
+            <idno type="VID">152260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2288:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands crisis, or, The World well mended</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: faded and torn.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Anti-Catholicism --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152260:1" rendition="simple:additions"/>
+            <head>
+               <hi>ENGLANDS CRISIS:</hi> Or, the <hi>WORLD WELL MENDED.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <l>Quod libet, id licet <hi>His,</hi> &amp; quod libet, &amp; licet Audent;</l>
+                  <l>Q<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>odque audent faciunt, faciunt quodcunque <hi>Moleſtum</hi> eſt.</l>
+                  <l>
+                     <hi>Belgica</hi> ſub n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtris pingueſcunt <hi>Monſtra</hi> Ruinis.</l>
+               </q>
+            </epigraph>
+            <p>SInce <hi>Religion</hi> has not weight enough to counter<g ref="char:EOLhyphen"/>poiſe the Ballance, when the <hi>World</hi> is laid in the other <hi>Scale;</hi> nor ſo much Power over us to con<g ref="char:EOLhyphen"/>quer our Prejudices, or ſubdue our Paſſions and Reſentments: Let us hearken a little, I pray, to the Impor<g ref="char:EOLhyphen"/>tunity of our <hi>Intereſt,</hi> and conſider what State and Condi<g ref="char:EOLhyphen"/>tion we are in, (and are like to be in) as to thoſe Two Dar<g ref="char:EOLhyphen"/>lings of all Mankind <hi>Liberty</hi> and <hi>Property;</hi> over which as Reaſonable Creatures, and with ſome Special<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, as Engliſh Men, we ought (and are ſuppoſed inclin'd, to keep a Watch.</p>
+            <p>Now if both theſe, beſides our <hi>Religion,</hi> are almoſt at the Mercy, and in the Power of a Company of Men, who by many Demonſtrations have ſhew'd their E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mity to our Nation, and their want of Common Juſtice and Humanity to temper their Inſolencies; therefore that they may not become our <hi>Maſters,</hi> it muſt be high time to look about us, and to do our ſelves Right before it be out of our Power, for as yet (God be thanked) I am ſatisfi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it is not, and without our fault will not be.</p>
+            <p>In the Reign of Queen <hi>Elizabeth</hi> their Style was, <hi>The Poor Diſtreſſed STATES;</hi> but by the help of that Queen having ſet their own Sovereign at <hi>Bay,</hi> and made themſelves a <hi>Free-State,</hi> they ſoon increaſed in <hi>Shipping</hi> (their Neighbours being otherwiſe employ'd) and by Conſequence in <hi>Trade</hi> and <hi>Wealth</hi> to that degree, That in the Reign of King <hi>James</hi> the Firſt, they began to incroach upon our Fiſhing, not only refuſing to ask Leave; but by diſturbing our Fiſhermen, even to the brea<g ref="char:EOLhyphen"/>king their Nets. In ſhort, they would have taken away our Dominion of the Narrow Seas: So ſoon like the un<g ref="char:EOLhyphen"/>grateful Viper in the Fable, Did they hiſs and offer to ſting that Boſom which Cheriſhed and Protected them.</p>
+            <p>During the Reign of King <hi>Charles</hi> the Firſt, their Af<g ref="char:EOLhyphen"/>fronts and Inſults were without Number; though that Un<g ref="char:EOLhyphen"/>happy Prince being imbroyl'd at Home, by Men of <hi>Dutch Principles,</hi> could never get Leiſure to call 'em to Account for it. And to ſhew the World that <hi>Gain is their only God<g ref="char:EOLhyphen"/>lineſs,</hi> even our own Uſurpers (Men of their own Stamp and Kidney) were neceſſitated to fight for them a <hi>Liberty of Trade.</hi>
+            </p>
+            <p>In the Reign of King <hi>Charles</hi> the Second, their Old Reckoning for their Pranks at <hi>Amboyna,</hi> enflam'd by freſh and continual Encroachments upon our <hi>Eaſt-India</hi> Traffick, compell'd that Peaceful Prince to humble them by Two ſeveral Wars; and, yet the late and preſent Pro<g ref="char:EOLhyphen"/>ceedings with us on that ſide the World do ſufficiently ſhew, That for their Injuſtice they may indeed be <hi>Puni<g ref="char:EOLhyphen"/>ſhed,</hi> but they can never find in their Hearts to <hi>Repent.</hi>
+            </p>
+            <p>Now for us to put the Government into the Hands of theſe Men, who for ſeveral Ages have conſtantly made it their Buſineſs to Impoveriſh and Ruin our Nation; and to make them the Protectors of our <hi>Religion,</hi> who to promote their Trade, ſcruple not to renounce <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> is ſuch an Inſtance of a deplorable Infatuation and Madneſs, that I ſtand aſtoniſhed at the very Reflection, <hi>Quos perdere vule Jupiter dementat prius.</hi>
+            </p>
+            <p>But it is ſaid, and expected, That the Prince of <hi>Orange</hi> in the Poſt he is in, and the Relation he now pretends to have to theſe Kingdoms, will take Care to ſoften or correct the Malignity of the Dutch Humor, and reconcile them to an Amicable Correſpondence. But alas I this thought is too eaſily overborn by Matter of Fact; for if the Common Principles of Gratitude, Hu<g ref="char:EOLhyphen"/>manity and Honor had any Force with them, the Aſ<g ref="char:EOLhyphen"/>ſiſtance Queen <hi>Elizabeth</hi> gave them, ſhould have bound them to an Eternal Friendſhip with the Engliſh Nation: But we ſee the contrary; and ſince they have treated us thus, whilſt we had the <hi>Sword in our Hands,</hi> What think you muſt we expect from them if we <hi>deliver it up?</hi> So <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> reaſonably conclude, that the Pr<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce of <hi>Orange</hi> has any Power with them, or In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ce over them any further than he can ſerve their <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Wh<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> is their God,</hi> or which is worſe, if he has, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave too much reaſon to queſtion his good <hi>Nature,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood <hi>Will</hi> to employ it for <hi>Our Advantage;</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> firſt <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich hath ſuffered him to drive an <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d a <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into Baniſhment, and then to take the Crown not from him only, but for ought appears yet to the contrary, from a <hi>Brother</hi> as well as from a <hi>Siſter</hi> and a <hi>Wife,</hi> notwithſtanding the Obligations of <hi>Nature,</hi> and his Publick <hi>Declarations</hi> into the Bargain; who, whilſt he came to repair King <hi>James</hi>'s bad Memory of his Pro<g ref="char:EOLhyphen"/>miſe, had not been Two Months in <hi>England</hi> before he <hi>openly broke his Own;</hi> and whilſt he pretended to leave all to the Deciſion of a Free and Legal Parliament, he <hi>drove</hi> the King away, to make it <hi>Impoſſible</hi> to have one. And if Ambition could break through all the Bonds of <hi>Blood</hi> and <hi>Honor</hi> to get a Crown, What can tye him up from doing all thoſe Miſchiefs we felt or feared from King <hi>James,</hi> and many more to keep it? He that could do all this, can have no Bowels; and he that has none, may be a King indeed, like the <hi>Stork</hi> in the Fable; and ſuch a King as we deſerve, and our frequent Rebellions loudly call for: One that will turn the gentle <hi>R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds</hi> in the Two former Reigns, <hi>into Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rpions</hi> in his Own: One that will have the ſame Title to our Service, as the <hi>Devil</hi> has to the <hi>Indian</hi>'s Devotion, or <hi>Dionyſius</hi> to the Poor Wo<g ref="char:EOLhyphen"/>man's Prayers: And for his good will to our Nation and the Proſperity thereof, he has given us a very good Spe<g ref="char:EOLhyphen"/>cimen already, by ſending to <hi>Holland</hi> even <hi>in ſpecie</hi> all, or the greateſt part of the Money borrowed of the City to ſupport the preſent exigency of the Government. It is this eager deſire of our Proſperity, that makes him dive under Water, out of the ſight of the Engliſh No<g ref="char:EOLhyphen"/>bility, to a Dutch Cabal at <hi>Hampton-Court;</hi> and we ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee his <hi>deſirable Face</hi> no more, <hi>unleſs</hi> it be to paſs Acts t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> empty our <hi>Coffers,</hi> to Saint <hi>Rebels,</hi> or deſtroy our <hi>Churc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>How ſweet ſoever he is upon us at preſent (and the is but <hi>awkwardly</hi> counterfeited) it is rank Folly to ſup<g ref="char:EOLunhyphen"/>poſe (for <hi>William</hi> the Conqueror ſaid, and did ſo Things at Firſt) that he will truſt us with any ſort. Power whatſoever, who have abuſed what we had, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> helping him to turn out our own Lawful and Right<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, to make room for Himſelf: And he begins the Game accordingly: For whilſt he ſends our Countrymen abroad into Danger, Slavery, or Hardſhips, he keeps a Dutch Army (and much the greater part of them <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi>) over us at Home, which may ſerve us for one good Inſtance of his Intentions to preſerve our Laws. I was indeed one amongſt a great many other eaſie and well meaning Men, who with a <hi>Fatal Credulity</hi> enter<g ref="char:EOLhyphen"/>tain'd a Belief, That his Deſign was Honorable; and one Reaſon of his Expedition had at leſt a ſhew of Juſtice in the Quarrel; I mean the Buſineſs of the Prince of <hi>Wales,</hi> which I cannot but confeſs, ſome People managed as if they deſigned either that we ſhould not believe at all, or if we did, our belief ſhould be as <hi>Implicit</hi> as to Succeſſions and Inheritances here, as that of the <hi>Romaniſt</hi> is in his expectation of Inheriting the King<g ref="char:EOLhyphen"/>dom of Heaven hereafter; but they have cured me of that Diſeaſe, and I do no longer Believe, That he ever intend<g ref="char:EOLhyphen"/>ed to perform what he promiſed in his Declaration, <hi>That he came to reſtore our Government to it ſelf, and to ſupport our Church,</hi> (which Popiſh Counſels had indeed put into ſome Diſorder;) for now by a nearer Converſe, and an impartial View of the preſent Meaſures, we ſee theſe things were fartheſt from his Thoughts. By all Obſerva<g ref="char:EOLhyphen"/>tions that can be made, the End of his coming was, To ſerve a Covetouſneſs Natural to the Dutch, and an Am<g ref="char:EOLhyphen"/>bition and Revenge as Natural to Himſelf: For now, thank God, we know that the Preparations for this Ex<g ref="char:EOLhyphen"/>pedition were not only begun, but very far advanced, be<g ref="char:EOLhyphen"/>fore the Seven Biſhops were ſent to the <hi>Tower,</hi> before the Queen was Breeding, and before the ſtarting the <hi>Mag<g ref="char:EOLhyphen"/>dalen</hi> Colledge Caſe; ſo that though the Diſcontents of the Nation upon thoſe Accounts, ſerv'd both to pro<g ref="char:EOLhyphen"/>mote and diſguiſe his Deſigns; they were no Occaſi<g ref="char:EOLhyphen"/>on of his firſt taking them up. And now his Succeſs has carried him to the Top of his Hopes, he is ſo far from redreſſing our Grievances, that he adds greater, and <hi>Himſelf</hi> continues the greateſt of them all. <hi>Ad Culmina Rerum</hi> Injuſtos <hi>creviſſe queror.</hi> He has a Popiſh Army commanded by Popiſh Officers, and Papiſts go in great Numbers to Maſs, at ſeveral Chappels, as openly as when
+<pb facs="tcp:152260:2"/> King <hi>James</hi> was here, and with a <hi>non Obſtance</hi> to all our Laws, enjoy as great P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iviledges.</p>
+            <p>They that thought theſe to be G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ievances before, muſt allow them to be much more ſo now, if we take into our Conſideration a Speech he made to the Convention (well ſaid to be Tranſubſtantiated into a Parliament) we may clearly ſee that neither his Deſire nor Deſign is to preſerve the Church of <hi>England,</hi> as is uncontroulably manifeſt by his Abol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhing Epiſcopacy in <hi>Scotland.</hi> But if we can be quiet ſtill, and get over all theſe Conſiderations (and in good Truth a drowſy negligent Spirit ſeems to have lock'd up the Noble <hi>Genius</hi> of the Nation) I muſt lay before you ano<g ref="char:EOLhyphen"/>ther Conſideration, that will be ſure to touch to the <hi>Quick.</hi>
+            </p>
+            <p>Peace and Plenty are the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdinal Bleſſings of a King<g ref="char:EOLhyphen"/>dom, and the latter of theſe has ſuch an Abſolute De<g ref="char:EOLhyphen"/>pendance upon the former, that Light and the Sun, Heat and Fire, are not more inſeparable. When the Sword moves, Trade ſtands ſtill, and the Plough is idle; for no Man will beſtow his Pains, and venture his Money, when he knows not how ſoon, or who may be Maſters of both; and if their be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Trade, there can be no Diffiu<g ref="char:EOLhyphen"/>ſive Plenty: For Trade is a kind of Circulation of Blood, it preſerves <hi>Health</hi> and diſtributes <hi>Nouriſhment:</hi> What<g ref="char:EOLhyphen"/>ſoever therefore brings a War upon the Nation, brings the greateſt Plague upon it that can be; a War abroad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ometimes may indeed be a kind of Phyſick to the Body <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olitick, but a War at home is a Fever in the Bowels: The Ruins of Churches, Palaces and Publick Buildings; and the many indigent and begging Gentlemen ſtill left amongſt us, are ſad and freſh Monuments of our Delive<g ref="char:EOLhyphen"/>rance <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom <hi>Popery</hi> and <hi>Slavery,</hi> betwixt the Years 40 and 60. In which time it Coſt the N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion above Twenty Mil<g ref="char:EOLhyphen"/>lions of Money, and a Hundred Thouſand Lives; and if we do not before it be dark Night ſee the things that be<g ref="char:EOLhyphen"/>long to our <hi>Peaca,</hi> we muſt it poſſible fall into greater Confuſion.</p>
+            <p>Do but prevail with your ſelf ſo far as not to let a lit<g ref="char:EOLhyphen"/>tle conſideration be either troubleſom, or uneaſy to you, and then you will find, that unleſs like <hi>Judah</hi> and <hi>Iſrael</hi> we <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to the King to return in Peace to his own Throne; we muſt have a Bloody War till he recovers his Righ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo long as he lives (for he has Money, and he can<g ref="char:EOLhyphen"/>not want Men, and will never give it over) nor indeed can the War dye with him, for ſo long as the Prince of <hi>Wales</hi> lives, and lives abroad, and whilſt there is a King of <hi>France</hi> or a Faction in <hi>England</hi> the War can never dye; a Calami<g ref="char:EOLhyphen"/>tous and Bloody War muſt needs be intail'd upon the Na<g ref="char:EOLhyphen"/>tion, Trading is already ſunk extreamly, and heavy Taxes are <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oming on a pace, and the Wheels of the New Govern<g ref="char:EOLhyphen"/>ment are already ſo clogg'd, that Six Millions of Money will ſcarce <hi>greaſe</hi> them enough to make them glibly turn round; whilſt <hi>England</hi> that Taxbearing Mule tamely wears one of <hi>Jacob</hi>'s Sons Inglorious Coat of Arms, <hi>Iſſa<g ref="char:EOLhyphen"/>char is an Aſs Couchant under a Burden</hi> of its own making. All our Comfort is, that in the judgment of the beſt learned in the Laws of this Kingdom, this Aſ<g ref="char:EOLhyphen"/>ſembly neither is, nor can be a Parliament; and indeed it can be no Parliament, but by virtue of a Power which God Almighty never claim'd, I mean <hi>Self-Creation,</hi> and Dr. <hi>Burnet</hi> himſelf is of the ſame Opinion, for in the 66 Pag. of his Collected Papers, ſpeaking of the Con<g ref="char:EOLhyphen"/>vention that brought in King <hi>Charles</hi> the Second, and which alſo afterwards voted it ſelf a Parliament, he has theſe very remarkable Words, <hi>It's being call'd without the King's Writ, was ſuch an Eſſential Nullity that no ſubſe<g ref="char:EOLhyphen"/>quent Ratification could take it away;</hi> and if ſo, the Sub<g ref="char:EOLhyphen"/>jects are not obliged to pay any Taxes, becauſe no Mo<g ref="char:EOLhyphen"/>ney can be raiſed here but by a Parliament; nay, the Subject not only is not obliged to pay them, but it is alſo his Duty to refuſe, and then all <hi>Aſſeſſors, Collectors,</hi> and <hi>Officers,</hi> that Aid or Aſſiſt in the Gathering or Con<g ref="char:EOLhyphen"/>ſtraining the Payment of ſuch <hi>Illegal Taxes,</hi> will ſtand li<g ref="char:EOLhyphen"/>able to the higheſt of Puniſhments, probably Death, where there is a violent taking, and alſo to an <hi>Action</hi> reſpective<g ref="char:EOLhyphen"/>ly for all Wrong done and Damages ſuſtained; and al<g ref="char:EOLhyphen"/>though the King by a General Pardon may Forgive the Crime, yet that will not relieve them againſt the Per<g ref="char:EOLhyphen"/>ſonal Action: Nay! we ſhall be as falſe to our ſelves as we have been to the King, if we ſuffer a Company of Men Aſſembled without <hi>Writs</hi> to take upon them ſuch a boundleſs Authority; it is a very dangerous thing to de<g ref="char:EOLhyphen"/>part the leaſt <hi>Tittle</hi> from any thing that is <hi>Fundamental</hi> in the <hi>Conſtitution,</hi> and we know not how ſoon they that do <hi>thus,</hi> may either make Parliaments without <hi>Elections</hi> as well as without <hi>W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its,</hi> or el<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wholly <hi>lay them aſide,</hi> both which have been done within the M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mory of Man</p>
+            <p>Death and Deſolation I leave to every Man's priva<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Reflection, and new Oaths Impos'd upon us againſt our Conſciences under heavy Penalties. The Fellows of <hi>Magdalen Colledge</hi> were Expell<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y would not violate their Conſciences nor the Oath they had ta<g ref="char:EOLhyphen"/>ken, and now Thouſands of the Church of <hi>England</hi> muſt be deprived of their <hi>Freeholds,</hi> and rendred uncapable of maintaining themſelves and their Families for the <hi>very ſame R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſon:</hi> And to add to the <hi>Comfort</hi> of our ſuff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring, <hi>that</hi> was done by a <hi>Popiſh</hi> King, <hi>this</hi> by an Aſſembly of <hi>Proteſtants.</hi> This is the Prologue, and but the <hi>Prologue</hi> to the Tragedy that is like to enſue: And now we have a <hi>Faſt</hi> Proclaim'd, to ſanctify Rebellion, and that there may not be any Wickedneſs done but <hi>in</hi> the <hi>Name and</hi> in the <hi>fear of</hi> the <hi>Lord.</hi> We muſt ſhut our Eyes, and be wilfully blind, if we do not diſcern this Written, as with a <hi>Beam</hi> of the <hi>Sun, That this wretched Nation muſt have no Peace, nor exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct any good, without doing the King Juſtice, and reſtoring him to his Throne, which is his own undoubted and indefeiſable Right;</hi> for if he comes by force and whether we will or no, without Abundance of <hi>Cle<g ref="char:EOLhyphen"/>mency,</hi> what may not an <hi>injur'd</hi> Monarch do? what <hi>muſt</hi> he not do, to ſecure himſelf from a perſidious and Re<g ref="char:EOLhyphen"/>bellious People? And if we conſider how King <hi>Charles</hi> the Firſt (who did not begin till he had loſt almoſt all the means of War, <hi>Ireland</hi> being embroyl'd, and <hi>Scotland</hi> againſt him too) reduced the Rump Parliament to Ex<g ref="char:EOLhyphen"/>tremity, we cannot doubt but that King <hi>James,</hi> who, beſides the Bleſſing that attends a good Cauſe, has <hi>Ireland</hi> entire, and the principal Nobility, and Gentry, and the whole Clergy of <hi>Scotland</hi> on his ſide; and his good Sub<g ref="char:EOLhyphen"/>jects of <hi>Englands</hi> Eyes now opened, will do more than ſet our new Government hard, and at laſt overthrow it.</p>
+            <p>I cannot forbear inſerting what I received in a Letter from an ingenious Hand, in theſe Words: <q rend="margQuotes">It is an Old, but True Obſervation concerning the People of the Jews (to whom we of this Nation may in many re<g ref="char:EOLhyphen"/>ſpects be very fitly compared) that they never <hi>Abdi<g ref="char:EOLhyphen"/>cated</hi> their King, but they <hi>Abdicated</hi> their God, and their Religion at the ſame time; <hi>Moſes,</hi> for Example, was their King, and by God's own Appointment, and the meekeſt Man upon the Earth; yet even he did but withdraw for Forty Days into the Mount, but his Rebellious Subjects began to Murmur and Complain, That he had DESERTED his Government, and left the Throne VACANT; and having call'd à great Convention of the Jews, they immediately made to themſelves a GOLDEN CALF at <hi>HOREB.</hi>
+               </q>
+            </p>
+            <p>Upon the whole, what in Juſtice we <hi>ought,</hi> in Prudence we <hi>muſt</hi> do, that is, <hi>call back the King, who to our com<g ref="char:EOLhyphen"/>fort offers his full Free and General Pardon, no Crime, no Perſon excepted, and to leave all our Grievances to be ac<g ref="char:EOLhyphen"/>commodated by a Free and Legal Parliament, freely choſen, and held without any manner of conſtraint,</hi> which as it will be a <hi>certain</hi> Expedient, ſo it is the <hi>only</hi> one, that can Eſtabliſh the Peace and Proſperity of the Nation; and ſince the King has made us the Offer, in Policy as well as Honour, he muſt keep his Word, if we will be but ſo juſt and kind to our ſelves as to give him the meeting in another <hi>healing</hi> Parliament.</p>
+            <p>I aſſure the World I am no Papiſt, and by the Grace of God never will be; my expectations and my preſent Poſ<g ref="char:EOLhyphen"/>ſeſſions are equally <hi>ſmall.</hi> I have no pretence to <hi>Greatneſs<g ref="char:punc">▪</g>
+               </hi> except what ariſes from an unſhaken ſtedfaſtneſs to the Principles of Religion, and Loyalty, which I ſhall ever think inſeparable. Nothing could have drawn theſe Re<g ref="char:EOLhyphen"/>flections from me, but an invincible fidelity to <hi>Truth, Juſtice,</hi> and my Native <hi>Country,</hi> upon which I ſee Ruin and Deſolation rowling like a mighty Wave. May theſe or ſome other from a more skilfull Hand, awake and rouſe the Sence and Ancient Courage of the Nation, that we may not need to be beholden to the <hi>French</hi> whom we <hi>hate,</hi> for bringing in the <hi>King</hi> whom we <hi>love,</hi> and may we make haſt to deliver our ſelves from the impend<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Miſchief of a Dutch Conqueſt, or from the greateſt of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſchiefs the <hi>Spirit of Slavery under a</hi> Commonwealth.</p>
+            <epigraph>
+               <q>Imperium flagitiis aquiſitum nemo unquas bonis artibus exercuit. <bibl>Tacit.</bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
